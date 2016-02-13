@@ -1,0 +1,2 @@
+myvenv\Scripts\activate /// kütüphaneyi aktifleþtirmek için
+python manage.py runserver /// sunucuyu çalýþtýrmak için
